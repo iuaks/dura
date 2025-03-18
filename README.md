@@ -1,1 +1,4 @@
 # dura
+
+
+labka 1
